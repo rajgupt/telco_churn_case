@@ -37,4 +37,5 @@ This repo contains dataset for telco case study
 | feedback\_category           | Categorical          | Categorized feedback reason.                                            |
 | sentiment                    | Categorical          | Sentiment extracted from feedback text.                                 |
 | complaint\_intensity         | Integer (1–5)        | Severity score of complaint or dissatisfaction.                         |
+| discount                     | Binary (0/1)         | $20 discount given (yes/no)                                             |
 
